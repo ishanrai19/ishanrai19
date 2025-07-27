@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishanrai19
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ishan.rai1907@gmail.com
 
